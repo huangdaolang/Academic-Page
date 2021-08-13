@@ -1,6 +1,7 @@
 ---
 title: Sequential Convolution and Runge-Kutta Residual Architecture for Image
   Compressed Sensing
+url_pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540222.pdf
 publication_types:
   - "1"
 authors:

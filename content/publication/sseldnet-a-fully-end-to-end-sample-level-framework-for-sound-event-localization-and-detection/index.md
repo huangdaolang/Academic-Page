@@ -21,7 +21,7 @@ abstract: "Sound event localization and detection (SELD) is a multi-task
   development dataset. The experimental results will be submitted to DCASE 2021
   challenge task 3."
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: ""

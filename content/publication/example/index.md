@@ -1,79 +1,55 @@
 ---
-title: "An example conference paper"
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
+abstract: In recent years, Deep Neural Networks (DNN) have empowered Compressed
+  Sensing (CS) substantially and have achieved high reconstruction quality and
+  speed far exceeding traditional CS methods. However, there are still lots of
+  issues to be further explored before it can be practical enough. There are
+  mainly two challenging problems in CS, one is to achieve efficient data
+  sampling, and the other is to reconstruct images with high-quality. To address
+  the two challenges, this paper proposes a novel Runge-Kutta Convolutional
+  Compressed Sensing Network (RK-CCSNet). In the sensing stage, RK-CCSNet
+  applies Sequential Convolutional Module (SCM) to gradually compact
+  measurements through a series of convolution filters. In the reconstruction
+  stage, RK-CCSNet establishes a novel Learned Runge-Kutta Block (LRKB) based on
+  the famous Runge-Kutta methods, reformulating the process of image
+  reconstruction as a discrete dynamical system. Finally, the implementation of
+  RK-CCSNet achieves state-of-the-art performance on influential benchmarks with
+  respect to prestigious baselines, and all the codes are available at
+  https://github.com/rkteddy/RK-CCSNet
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-- admin
-- Robert Ford
-
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-
-date: "2013-07-01T00:00:00Z"
+  - Runkai Zheng
+  - Yinqi Zhang
+  - admin
+  - Qingliang Chen
+author_notes: []
+publication: In European Conference on Computer Vision
+summary: Combined compressed sensing and deep learning, proposed RK-CCSNet to
+  improve both the encoding and reconstruction phase and achieved
+  state-of-the-art results in deep compressed sensing
+url_dataset: ""
+url_project: ""
+publication_short: In *ECCV*
+url_source: ""
+url_video: ""
+title: Sequential Convolution and Runge-Kutta Residual Architecture for Image
+  Compressed Sensing
 doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+  filename: 504446_1_en_14_fig2_html.png
+date: 2020-11-04T22:00:10.101Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}

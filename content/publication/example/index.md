@@ -34,7 +34,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: 504446_1_en_14_fig2_html.png
+  filename: featured.png
 summary: Combined compressed sensing and deep learning, proposed RK-CCSNet to
   improve both the encoding and reconstruction phase and achieved
   state-of-the-art results in deep compressed sensing

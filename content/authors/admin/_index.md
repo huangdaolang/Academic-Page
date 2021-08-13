@@ -11,33 +11,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=2togGHoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/huangdaolang
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/daolanghuang/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aalto University
+    url: https://www.aalto.fi/en
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MSc in Machine Learning
+      institution: Aalto University
+      year: 2022
+    - course: BSc in Computer Science & Technology
+      institution: Jinan University
+      year: 2020
+email: huangdaolang810@gmail.com
 superuser: true
 highlight_name: false
 ---

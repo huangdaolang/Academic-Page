@@ -1,4 +1,14 @@
 ---
+title: Sequential Convolution and Runge-Kutta Residual Architecture for Image
+  Compressed Sensing
+publication_types:
+  - "1"
+authors:
+  - Runkai Zheng
+  - Yinqi Zhang
+  - admin
+  - Qingliang Chen
+publication_short: In *ECCV*
 abstract: In recent years, Deep Neural Networks (DNN) have empowered Compressed
   Sensing (CS) substantially and have achieved high reconstruction quality and
   speed far exceeding traditional CS methods. However, there are still lots of
@@ -15,36 +25,27 @@ abstract: In recent years, Deep Neural Networks (DNN) have empowered Compressed
   RK-CCSNet achieves state-of-the-art performance on influential benchmarks with
   respect to prestigious baselines, and all the codes are available at
   https://github.com/rkteddy/RK-CCSNet
+draft: false
+featured: true
+tags: []
 slides: ""
 url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Runkai Zheng
-  - Yinqi Zhang
-  - admin
-  - Qingliang Chen
-author_notes: []
-publication: In European Conference on Computer Vision
-summary: Combined compressed sensing and deep learning, proposed RK-CCSNet to
-  improve both the encoding and reconstruction phase and achieved
-  state-of-the-art results in deep compressed sensing
-url_dataset: ""
-url_project: ""
-publication_short: In *ECCV*
-url_source: ""
-url_video: ""
-title: Sequential Convolution and Runge-Kutta Residual Architecture for Image
-  Compressed Sensing
-doi: ""
-featured: false
-tags: []
-projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: 504446_1_en_14_fig2_html.png
+summary: Combined compressed sensing and deep learning, proposed RK-CCSNet to
+  improve both the encoding and reconstruction phase and achieved
+  state-of-the-art results in deep compressed sensing
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: 10.1007/978-3-030-58545-7_14
+publication: In European Conference on Computer Vision
+projects: []
 date: 2020-11-04T22:00:10.101Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z

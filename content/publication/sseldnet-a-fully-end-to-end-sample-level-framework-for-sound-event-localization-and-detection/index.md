@@ -6,8 +6,8 @@ publication_types:
 authors:
   - admin
   - Ricardo Falcon Perez
-publication: Detection and Classification of Acoustic Scenes and Events
-publication_short: DCASE
+publication: In Detection and Classification of Acoustic Scenes and Events 2021
+publication_short: In *DCASE 2021*
 abstract: "Sound event localization and detection (SELD) is a multi-task
   learning problem that aims to detect different audio events and estimate their
   corresponding locations. All of the previously proposed SELD systems were

@@ -3,7 +3,7 @@ widget: Featured
 widget_id: pub
 headless: true
 weight: 80
-title: Publications
+title: Featured Publications
 subtitle: ""
 content:
   page_type: publication

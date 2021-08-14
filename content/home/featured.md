@@ -1,5 +1,5 @@
 ---
-widget: Featured
+widget: featured
 widget_id: pub
 headless: true
 weight: 80

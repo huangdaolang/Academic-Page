@@ -1,6 +1,7 @@
 ---
 title: SSELDnet -  A Fully End-to-End Sample-Level Framework for Sound Event
   Localization and Detection
+url_pdf: http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Huang_24_t3.pdf
 publication_types:
   - "4"
 authors:

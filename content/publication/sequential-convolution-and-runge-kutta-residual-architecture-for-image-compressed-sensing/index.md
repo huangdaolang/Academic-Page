@@ -3,6 +3,7 @@ title: Sequential Convolution and Runge-Kutta Residual Architecture for Image
   Compressed Sensing
 publication_types:
   - "1"
+url_pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540222.pdf
 authors:
   - Runkai Zheng
   - Yinqi Zhang

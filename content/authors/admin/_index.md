@@ -36,8 +36,8 @@ email: huangdaolang810@gmail.com
 superuser: true
 highlight_name: false
 ---
-Daolang Huang is a master student at Aalto University, Major in Machine Learning, Data Science and Artificial Intelligence ([Macadamia](https://into.aalto.fi/display/enccis/Machine+Learning%2C+Data+Science+and+Artificial+Intelligence+%28Macadamia%29+2020-2022)). Also an electronic music producer.
+Daolang Huang is a master student at Aalto University, Major in Machine Learning, Data Science and Artificial Intelligence ([Macadamia](https://into.aalto.fi/display/enccis/Machine+Learning%2C+Data+Science+and+Artificial+Intelligence+%28Macadamia%29+2020-2022)). Also an electronic music producer ([RGB music](https://open.spotify.com/artist/3DYsLJGSYlawMe16NpyhlA?si=1qwBZJ9iT6O9ne06Kw1tyQ&dl_branch=1)).
 
-Currently, I am working under the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) Group of Department of Computer Science at Aalto University as Summer Intern.
+Currently, I am working under the [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) Group of the Department of Computer Science at Aalto University as Summer Intern.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.

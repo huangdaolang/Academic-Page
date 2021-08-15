@@ -6,7 +6,7 @@ featured: false
 categories:
   - Deep Learning
   - Music Information Retrieval
-external_link: https://musicinformationretrieval.com/index.html
+
 links: []
 image:
   filename: featured.png

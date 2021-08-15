@@ -23,22 +23,22 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'student'
-    company: Aalto University
+    company: 'Aalto University'
     company_url: 'www.aalto.fi'
     company_logo: org-gc
-    location: Espoo, Finland
+    location: 'Espoo, Finland'
     date_start: '2020-09-01'
     date_end: ''
-    description: major in machine learning.
+    description: 'major in machine learning.'
         
-  - title: 'student'
-    company: Jinan University
+  - title: 'Master student'
+    company: 'Jinan University'
     company_url: 'www.jnu.edu.cn'
     company_logo: org-x
-    location: Guangzhou, China
+    location: 'Guangzhou, China'
     date_start: '2016-09-01'
     date_end: '2020-06-31'
-    description: major in computer science and technology.
+    description: 'major in computer science and technology.'
 
 design:
   columns: '2'

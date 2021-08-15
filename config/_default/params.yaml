@@ -44,7 +44,7 @@ contact_links:
     name: Github
     link: 'https://github.com/huangdaolang'
   - icon: weixin
-    icon_pack: fas
+    icon_pack: fab
     name: Wechat
     link: 'https://drive.google.com/file/d/1BQXW7889tc1oUuGRW-gGUfLTn_d2Bqb3/view?usp=sharing'
 

@@ -3,7 +3,6 @@ title: Sequential Convolution and Runge-Kutta Residual Architecture for Image
   Compressed Sensing
 publication_types:
   - "1"
-url_pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540222.pdf
 authors:
   - Runkai Zheng
   - Yinqi Zhang
@@ -29,6 +28,7 @@ abstract: In recent years, Deep Neural Networks (DNN) have empowered Compressed
   respect to prestigious baselines, and all the codes are available at
   https://github.com/rkteddy/RK-CCSNet
 draft: false
+url_pdf: https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123540222.pdf
 featured: true
 image:
   filename: featured.png

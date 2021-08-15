@@ -1,7 +1,6 @@
 ---
 title: SSELDnet -  A Fully End-to-End Sample-Level Framework for Sound Event
   Localization and Detection
-url_pdf: http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Huang_24_t3.pdf
 publication_types:
   - "4"
 authors:
@@ -22,6 +21,7 @@ abstract: "Sound event localization and detection (SELD) is a multi-task
   development dataset. The experimental results will be submitted to DCASE 2021
   challenge task 3."
 draft: false
+url_pdf: http://dcase.community/documents/challenge2021/technical_reports/DCASE2021_Huang_24_t3.pdf
 featured: true
 image:
   filename: featured.png

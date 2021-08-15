@@ -34,19 +34,19 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    link: 'https://twitter.com/DaolangHuang'
+  - icon: zhihu
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
+    name: Ask me
+    link: 'https://www.zhihu.com/people/donaldhwang'
+  - icon: github
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
+    name: Github
+    link: 'https://github.com/huangdaolang'
+  - icon: wechat
     icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Wechat
+    link: 'https://drive.google.com/file/d/1BQXW7889tc1oUuGRW-gGUfLTn_d2Bqb3/view?usp=sharing'
 
 # Site header
 

@@ -9,8 +9,8 @@ authors:
   - admin
   - Qingliang Chen
 doi: 10.1007/978-3-030-58545-7_14
-publication: In European Conference on Computer Vision
-publication_short: In *ECCV*
+publication: In European Conference on Computer Vision 2020
+publication_short: In *ECCV 2020*
 abstract: In recent years, Deep Neural Networks (DNN) have empowered Compressed
   Sensing (CS) substantially and have achieved high reconstruction quality and
   speed far exceeding traditional CS methods. However, there are still lots of

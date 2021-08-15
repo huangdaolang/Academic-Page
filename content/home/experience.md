@@ -21,24 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: 'Master student'
-    company: 'Aalto University'
-    company_url: ''
-    company_logo: org-gc
-    location: 'Espoo, Finland'
-    date_start: '2020-09-01'
-    date_end: ''
-    description: 'major in machine learning.'
-        
-  - title: 'Bachelor student'
-    company: 'Jinan University'
-    company_url: ''
-    company_logo: org-x
-    location: 'Guangzhou, China'
-    date_start: '2016-09-01'
-    date_end: '2020-06-31'
-    description: 'major in computer science and technology.'
+
 
 design:
   columns: '2'

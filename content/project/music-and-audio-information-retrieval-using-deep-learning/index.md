@@ -6,6 +6,9 @@ featured: false
 categories:
   - Deep Learning
   - Music Information Retrieval
+tags:
+  - Deep Learning
+  - Music Information Retrieval
 
 links: []
 image:

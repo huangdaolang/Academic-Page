@@ -28,10 +28,10 @@ education:
   courses:
     - course: MSc in Machine Learning
       institution: Aalto University
-      year: ""
+      year: 2022
     - course: BSc in Computer Science & Technology
       institution: Jinan University
-      year: ""
+      year: 2020
 email: huangdaolang810@gmail.com
 superuser: true
 highlight_name: false

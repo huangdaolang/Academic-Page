@@ -1,9 +1,9 @@
 ---
 title: Daolang Huang
-role: Master student of Aalto University
-avatar_filename: 近照.jpeg
-bio: My research interests include deep learning, active learning and music
-  information retrieval
+role: Master student at Aalto University
+avatar_filename: recent.png
+bio: My research interests include deep learning, probabilistic machine learning
+  and audio information retrieval
 interests:
   - Artificial Intelligence
   - Deep Learning
@@ -36,7 +36,7 @@ email: huangdaolang810@gmail.com
 superuser: true
 highlight_name: false
 ---
-Daolang Huang is a master student at Aalto University, major in Machine Learning, Data Science and Artificial Intelligence ([Macadamia](https://into.aalto.fi/display/enccis/Machine+Learning%2C+Data+Science+and+Artificial+Intelligence+%28Macadamia%29+2020-2022)). He received his Bachelor's degree at [Jinan University](https://www.jnu.edu.cn/), major in Computer science and technology. He is also an electronic music producer ([RGB music](https://open.spotify.com/artist/3DYsLJGSYlawMe16NpyhlA?si=1qwBZJ9iT6O9ne06Kw1tyQ&dl_branch=1)), which mainly produces Future House music.
+Daolang Huang is a master's student at Aalto University, major in Machine Learning, Data Science and Artificial Intelligence ([Macadamia](https://into.aalto.fi/display/enccis/Machine+Learning%2C+Data+Science+and+Artificial+Intelligence+%28Macadamia%29+2020-2022)). He received his Bachelor's degree at [Jinan University](https://www.jnu.edu.cn/), major in Computer science and technology. He is also an electronic music producer ([RGB music](https://open.spotify.com/artist/3DYsLJGSYlawMe16NpyhlA?si=1qwBZJ9iT6O9ne06Kw1tyQ&dl_branch=1)), which mainly produces Future House music.
 
 Currently, he is working under the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) of the Department of Computer Science at Aalto University as a research assistant.
 

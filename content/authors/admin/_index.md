@@ -1,7 +1,7 @@
 ---
 title: Daolang Huang
 role: Master student at Aalto University
-avatar_filename: recent.png
+avatar_filename: avatar.png
 bio: My research interests include deep learning, probabilistic machine learning
   and audio information retrieval
 interests:

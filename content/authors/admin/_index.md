@@ -40,4 +40,4 @@ Daolang Huang is a master student at Aalto University, major in Machine Learning
 
 Currently, he is working under the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) of the Department of Computer Science at Aalto University as a research assistant.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

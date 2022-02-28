@@ -5,9 +5,9 @@ avatar_filename: avatar.png
 bio: My research interests include deep learning, probabilistic machine learning
   and audio information retrieval
 interests:
-  - Artificial Intelligence
+  - Probabilistic Machine Learning
   - Deep Learning
-  - Music Information Retrieval
+  - Audio Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas

@@ -2,13 +2,14 @@
 title: Bayesian Optimization Augmented with Actively Elicited Expert Knowledge
 publication_types:
   - "3"
+  - "1"
 authors:
   - Daolang Huang
   - Louis Filstroff
   - Petrus Mikkola
   - Runkai Zheng
   - Samuel Kaski
-draft: true
+draft: false
 featured: true
 tags:
   - Bayesian optimization

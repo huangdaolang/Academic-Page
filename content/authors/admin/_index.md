@@ -1,10 +1,11 @@
 ---
 title: Daolang Huang
-role: Master student at Aalto University
+role: Doctoral candidate at Aalto University
 avatar_filename: avatar.png
-bio: My research interests include deep learning, probabilistic machine learning
-  and audio information retrieval
+bio: My research interests include amortized inference, deep learning,
+  probabilistic machine learning and audio information retrieval
 interests:
+  - Amortized inference
   - Probabilistic Machine Learning
   - Deep Learning
   - Audio Information Retrieval
@@ -32,14 +33,10 @@ education:
     - course: BSc in Computer Science & Technology
       institution: Jinan University
       year: 2020
-email: huangdaolang810@gmail.com
+email: daolang.huang@aalto.fi
 superuser: true
 highlight_name: false
 ---
-Daolang Huang is a master's student at Aalto University, major in Machine Learning, Data Science and Artificial Intelligence ([Macadamia](https://into.aalto.fi/display/enccis/Machine+Learning%2C+Data+Science+and+Artificial+Intelligence+%28Macadamia%29+2020-2022)). He received his Bachelor's degree at [Jinan University](https://www.jnu.edu.cn/), major in Computer science and technology. He is also an electronic music producer ([RGB music](https://open.spotify.com/artist/3DYsLJGSYlawMe16NpyhlA?si=1qwBZJ9iT6O9ne06Kw1tyQ&dl_branch=1)), which mainly produces Future House music.
-
-Currently, he is working under the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) of the Department of Computer Science at Aalto University as a research assistant.
+Daolang is a doctoral student co-supervised with [Samuel Kaski](https://people.aalto.fi/samuel.kaski) (Aalto University) and [Luigi Acerbi](https://www2.helsinki.fi/en/researchgroups/machine-and-human-intelligence/people) (University of Helsinki) since July 2022. Previously, Daolang has worked as a research assistant in the [Probabilistic Machine Learning Group](https://research.cs.aalto.fi/pml/) at Aalto University. He received his master’s degree at Aalto University, with a major in Machine Learning, Data Science and Artificial Intelligence ([Macadamia](https://www.aalto.fi/en/study-options/masters-programme-in-computer-communication-and-information-sciences-machine-learning)). In his spare time, he is also an electronic music producer, mainly producing house music. Daolang's work focuses on amortized inference with applications to decision making and multi-agent modeling.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-This site is not up-to-date yet.
